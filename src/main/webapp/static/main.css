@@ -1,0 +1,23 @@
+td {
+    border: 6px solid #ff00fb;
+    padding: 10px;
+    border-collapse: separate;
+    margin: 10px;
+    width: 100px;
+    height: 100px;
+    font-size: 50px;
+    text-align: center;
+    empty-cells: show;
+background-color: #4e0f73;
+    color: #ff00fb;
+}
+
+h1{
+    font-size: 35px;
+    color: blue;
+}
+
+button{
+    font-size: 25px;
+    color: blue;
+}
